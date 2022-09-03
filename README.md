@@ -6,4 +6,5 @@
 6. [How to use TensorBoard in Flax](https://github.com/mlnuggets/flax/tree/main/tensorboard)
 7. [LSTM in JAX & Flax](https://www.machinelearningnuggets.com/jax-flax-lstm)
 8. [Elegy(High-level API for deep learning in JAX & Flax)](https://www.machinelearningnuggets.com/elegy-flax-jax)
+9. [Transfer learning with JAX and Flax](https://www.machinelearningnuggets.com/transfer-learning-with-jax-flax)
 
