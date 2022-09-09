@@ -8,4 +8,5 @@
 8. [Elegy(High-level API for deep learning in JAX & Flax)](https://www.machinelearningnuggets.com/elegy-flax-jax)
 9. [Transfer learning with JAX and Flax](https://www.machinelearningnuggets.com/transfer-learning-with-jax-flax)
 10. [Handling state in JAX & Flax (BatchNorm and DropOut layers)](https://www.machinelearningnuggets.com/handling-state-in-jax-flax-batchnorm-and-dropout-layers)
+11. [Train Resnet in Flax from scratch](https://www.machinelearningnuggets.com/resnet-flax)
 
